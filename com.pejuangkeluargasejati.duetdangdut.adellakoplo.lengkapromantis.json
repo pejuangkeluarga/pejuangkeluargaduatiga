@@ -1,0 +1,276 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DUET ADELLA",
+      "image": "file:///android_asset/image/DA.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DUET ADELLA",
+      "title": "SIA SIA MENGHARAP CINTA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "DUET ADELLA",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "DUET ADELLA",
+      "title": "TAMAN JURUG",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "DUET ADELLA",
+      "title": "LEMBAH MANAH",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "DUET ADELLA",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "DUET ADELLA",
+      "title": "KOYO JOGJA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "DUET ADELLA",
+      "title": "DADI SIJI",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "DUET ADELLA",
+      "title": "CERITO MUSTAHIL",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "DUET ADELLA",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "DUET ADELLA",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "DUET ADELLA",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "DUET ADELLA",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "DUET ADELLA",
+      "title": "SATRU",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "DUET ADELLA",
+      "title": "MENDUNG TANPO",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "DUET ADELLA",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "DUET ADELLA",
+      "title": "MISTER MDEM",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "DUET ADELLA",
+      "title": "GAGAL MERANGKAI KATA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "DUET ADELLA",
+      "title": "MEMANDANGMU",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "DUET ADELLA",
+      "title": "AKU RA MUNDUR",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "DUET ADELLA",
+      "title": "BIRUNYA CINTA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE20.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 21,
+      "name_category": "DUET ADELLA",
+      "title": "TRESNO WRANGGONO",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE21.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 22,
+      "name_category": "DUET ADELLA",
+      "title": "RINDU AKU RINDU",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE22.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 23,
+      "name_category": "DUET ADELLA",
+      "title": "SIDO RONDO",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE23.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 24,
+      "name_category": "DUET ADELLA",
+      "title": "ALUN ALUN NGANJUK",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE24.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 25,
+      "name_category": "DUET ADELLA",
+      "title": "BAHTERA CINTA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE25.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 26,
+      "name_category": "DUET ADELLA",
+      "title": "IZINKAN",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE26.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 27,
+      "name_category": "DUET ADELLA",
+      "title": "JALAN DATAR",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE27.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 28,
+      "name_category": "DUET ADELLA",
+      "title": "JAMU PEGEL MELARAT",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE28.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 29,
+      "name_category": "DUET ADELLA",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE29.mp3",
+      "lyrics": ""
+	 },{
+      "id": 30,
+      "name_category": "DUET ADELLA",
+      "title": "LUKA LAMA",
+      "image": "file:///android_asset/image/DA.jpg",
+      "link_mp3": "mp3/DUDELLE30.mp3",
+      "lyrics": ""
+	 }
+  ]
+}
