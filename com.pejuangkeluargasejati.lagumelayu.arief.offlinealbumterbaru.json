@@ -1,0 +1,305 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "image": "file:///android_asset/image/AB.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/AL.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "BARU",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "BARU",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "BARU",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "BARU",
+      "title": "HATIMU UNTUK SIAPA",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "BARU",
+      "title": "AKU BERARAP ENGKAU BERHIANAT",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "BARU",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "BARU",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "BARU",
+      "title": "RELA KAU TINGGALKAN",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "BARU",
+      "title": "AKU YANG MENGALAH",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "BARU",
+      "title": "SEMPURNA DENGANMU",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "BARU",
+      "title": "BIARKAN AKU SENDIRI",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "BARU",
+      "title": "HARUSKAH AKU MATI",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "BARU",
+      "title": "GERHANA DALAM CINTA",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "BARU",
+      "title": "TAK SEDALAM",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "BARU",
+      "title": "KEHADIRANMU",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "BARU",
+      "title": "AKU YANG KAU TINGGALKAN",
+      "image": "file:///android_asset/image/AB.jpg",
+      "link_mp3": "mp3/LAIFRUB16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "LUKA SEKARAT RASA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "SAMA JAHATNYA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "BAGAI ORANG TERBUAH",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB20.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "REMBLAN MALAM",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB21.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 22,
+      "name_category": "LENGKAP",
+      "title": "RINDU DALAM DIAM",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB22.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 23,
+      "name_category": "LENGKAP",
+      "title": "ROMANTKAN CINTA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB23.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 24,
+      "name_category": "LENGKAP",
+      "title": "BENCI KU SAYANGKA SAYANG",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB24.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 25,
+      "name_category": "LENGKAP",
+      "title": "JANGAN TINGGALKAN AKU",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB25.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 26,
+      "name_category": "LENGKAP",
+      "title": "MANISNYA JANJI",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB26.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 27,
+      "name_category": "LENGKAP",
+      "title": "MIMPIKU KINI MENGHILANG",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB27.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 28,
+      "name_category": "LENGKAP",
+      "title": "SAYANG TAPI BABAGI",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB28.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 29,
+      "name_category": "LENGKAP",
+      "title": "PINANGAN BAGANTI ANGAN",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB29.mp3",
+      "lyrics": ""
+	 },{
+      "id": 30,
+      "name_category": "LENGKAP",
+      "title": "MENGAPA KAU BERI RASA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB30.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 31,
+      "name_category": "LENGKAP",
+      "title": "PEMBATAS CINTA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB31.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 32,
+      "name_category": "LENGKAP",
+      "title": "HANYA INSAN BIASA",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB32.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 33,
+      "name_category": "LENGKAP",
+      "title": "KENANGAN MENYAKITKAN",
+      "image": "file:///android_asset/image/AL.jpg",
+      "link_mp3": "mp3/LAIFRUB33.mp3",
+      "lyrics": ""
+	 }
+  ]
+}
