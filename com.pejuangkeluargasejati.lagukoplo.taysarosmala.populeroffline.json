@@ -1,0 +1,297 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+ "Categories": [
+    {
+      "id": 1,
+      "name_category": "TASYA ROSMALA",
+      "image": "file:///android_asset/image/SDP.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "TASYA DUET",
+      "image": "file:///android_asset/image/SDD.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TASYA DUET",
+      "title": "SIA SIA MENGHARAP CINTAMU",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "TASYA DUET",
+      "title": "SATU RASA CINTA",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "TASYA ROSMALA",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "TASYA ROSMALA",
+      "title": "NEMEN",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "TASYA ROSMALA",
+      "title": "RUNGKAD",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "TASYA ROSMALA",
+      "title": "MELEPAS LAJANG",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "TASYA ROSMALA",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "TASYA ROSMALA",
+      "title": "TAK SEDALAM INI",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "TASYA ROSMALA",
+      "title": "PURNAMA",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "TASYA ROSMALA",
+      "title": "TERLENA",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "TASYA ROSMALA",
+      "title": "SELIMUT BIRU",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "TASYA ROSMALA",
+      "title": "SENANDUNG REMBULAN",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "TASYA ROSMALA",
+      "title": "KERANDA CINTA",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "TASYA ROSMALA",
+      "title": "MENGEJAR BADAI",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "TASYA ROSMALA",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "TASYA ROSMALA",
+      "title": "RINDU",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "TASYA ROSMALA",
+      "title": "BAGAI RANTING KERING",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "TASYA ROSMALA",
+      "title": "BENCI",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "TASYA ROSMALA",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "TASYA ROSMALA",
+      "title": "DUH ENGKANG",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA20.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 21,
+      "name_category": "TASYA ROSMALA",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA21.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 22,
+      "name_category": "TASYA ROSMALA",
+      "title": "HADIRMU BAGAI MIMPI",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA22.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 23,
+      "name_category": "TASYA ROSMALA",
+      "title": "HRUSNYA AKU",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA23.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 24,
+      "name_category": "TASYA ROSMALA",
+      "title": "KASMARAN",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA24.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 25,
+      "name_category": "TASYA ROSMALA",
+      "title": "TULANG RUSUK",
+      "image": "file:///android_asset/image/SDP.jpg",
+      "link_mp3": "mp3/SYALODLA25.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 26,
+      "name_category": "TASYA DUET",
+      "title": "BINGKISAN RINDU",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA26.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 27,
+      "name_category": "TASYA DUET",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA27.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 28,
+      "name_category": "TASYA DUET",
+      "title": "GERIMIS MELANDA HATI",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA28.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 29,
+      "name_category": "TASYA DUET",
+      "title": "SYARAT CINTA",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA29.mp3",
+      "lyrics": ""
+	 },{
+      "id": 30,
+      "name_category": "TASYA DUET",
+      "title": "KASIH DAN SAYANG",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA30.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 31,
+      "name_category": "TASYA DUET",
+      "title": "LURUH CINTAKU",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA31.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 32,
+      "name_category": "TASYA DUET",
+      "title": "SATU HATI SAMPAI MATI",
+      "image": "file:///android_asset/image/SDD.jpg",
+      "link_mp3": "mp3/SYALODLA32.mp3",
+      "lyrics": ""
+	 }
+  ]
+}
