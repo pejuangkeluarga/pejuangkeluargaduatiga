@@ -1,0 +1,197 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ARI LASSO",
+      "image": "file:///android_asset/image/RA.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ARI LASSO",
+      "title": "PENJAGA HATI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "ARI LASSO",
+      "title": "HAMPA",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "ARI LASSO",
+      "title": "ARTI CINTA",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "ARI LASSO",
+      "title": "CINTA KAN MEMBAWANMU",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "ARI LASSO",
+      "title": "KANGEN",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "ARI LASSO",
+      "title": "LIRIH",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "ARI LASSO",
+      "title": "KAMULAH SATU SATUNYA",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "ARI LASSO",
+      "title": "SEANDAINYA",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "ARI LASSO",
+      "title": "MISTERI ILAHI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "ARI LASSO",
+      "title": "KIRANA",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "ARI LASSO",
+      "title": "PERBEDAAN",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "ARI LASSO",
+      "title": "AKU DAN DIRIMU",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "ARI LASSO",
+      "title": "CINTAILAH AKU SEPENUH HATI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "ARI LASSO",
+      "title": "CINTA SEJATI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "ARI LASSO",
+      "title": "CINTA TERAKHIR",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "ARI LASSO",
+      "title": "JALANKU TAK PANJANG",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "ARI LASSO",
+      "title": "KARENA AKU TLAH DENGANMU",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "ARI LASSO",
+      "title": "KEDAMAIAN HATI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "ARI LASSO",
+      "title": "MENGEJAR MATAHARI",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "ARI LASSO",
+      "title": "RAHASIA PEREMPUAN",
+      "image": "file:///android_asset/image/RA.png",
+      "link_mp3": "mp3/LARIGU20.mp3",
+      "lyrics": ""
+	 }
+  ]
+}
