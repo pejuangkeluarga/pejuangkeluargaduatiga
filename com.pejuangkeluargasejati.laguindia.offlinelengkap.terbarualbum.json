@@ -1,0 +1,354 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "INDIA A",
+      "image": "file:///android_asset/image/INOA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "INDIA B",
+      "image": "file:///android_asset/image/INOB.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "INDIA A",
+      "title": "DIL KO KARRAR AAYA",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "INDIA A",
+      "title": "RAATAAN LAMBIYAN",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "INDIA A",
+      "title": "THODA THODA",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "INDIA A",
+      "title": "PAL",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "INDIA A",
+      "title": "Thodi Jagah",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "INDIA A",
+      "title": "Tum Hi Aana",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "INDIA A",
+      "title": "Aj Sa Jeya",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "INDIA A",
+      "title": "Dooriyan",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "INDIA A",
+      "title": "Fakir",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "INDIA A",
+      "title": "Kasam",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "INDIA A",
+      "title": "Ke Thoda Thoda Pyar",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "INDIA A",
+      "title": "Rabba Mehar Karo",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "INDIA A",
+      "title": "Sunn Zara",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "INDIA A",
+      "title": "Janam Janam",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "INDIA A",
+      "title": "Kal Ho Na Ho",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "INDIA A",
+      "title": "Tukur Tukur",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "INDIA A",
+      "title": "Valam",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "INDIA A",
+      "title": "Tere Liye",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "INDIA A",
+      "title": "Gerua",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "INDIA A",
+      "title": "Muskurane",
+      "image": "file:///android_asset/image/INOA.jpg",
+      "link_mp3": "mp3/DIALOKAP20.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 21,
+      "name_category": "INDIA B",
+      "title": "Tujhe Dekha To Yeh Jaana Sanam",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP21.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 22,
+      "name_category": "INDIA B",
+      "title": "Tum Hi Ho",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP22.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 23,
+      "name_category": "INDIA B",
+      "title": "Humko Humise Chura Lo",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP23.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 24,
+      "name_category": "INDIA B",
+      "title": "Daayre",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP24.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 25,
+      "name_category": "INDIA B",
+      "title": "Suraj Hua Maddham",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP25.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 26,
+      "name_category": "INDIA B",
+      "title": "Aankhein Khuli",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP26.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 27,
+      "name_category": "INDIA B",
+      "title": "Chalte Chalte",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP27.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 28,
+      "name_category": "INDIA B",
+      "title": "Teri Meri Prem Kahani",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP28.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 29,
+      "name_category": "INDIA B",
+      "title": "Khabi Khusi Khabigham",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP29.mp3",
+      "lyrics": ""
+	 },{
+      "id": 30,
+      "name_category": "INDIA B",
+      "title": "Koi Mil Gaya",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP30.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 31,
+      "name_category": "INDIA B",
+      "title": "Kuch Kuch Ho Ta Hai",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP31.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 32,
+      "name_category": "INDIA B",
+      "title": "Uska Hi Banana",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP32.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 33,
+      "name_category": "INDIA B",
+      "title": "Bole Chudian",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP33.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 34,
+      "name_category": "INDIA B",
+      "title": "Chori Chori Sapno Mein",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP34.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 35,
+      "name_category": "INDIA B",
+      "title": "Dil Mera Chahe",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP35.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 36,
+      "name_category": "INDIA B",
+      "title": "Dil Ne Yeh Kaha Hain Dil Se",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP36.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 37,
+      "name_category": "INDIA B",
+      "title": "Main Yahaan Hoon",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP37.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 38,
+      "name_category": "INDIA B",
+      "title": "Oh My Darling I Louve U",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP38.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 39,
+      "name_category": "INDIA B",
+      "title": "You Are My Soniyah",
+      "image": "file:///android_asset/image/INOB.jpg",
+      "link_mp3": "mp3/DIALOKAP39.mp3",
+      "lyrics": ""
+	 }
+	 
+  ]
+}
