@@ -1,0 +1,356 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ KENTRUNG",
+      "image": "file:///android_asset/image/.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ KENTRUNG",
+      "title": "KARNA SU SAYANG",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA1.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 2,
+      "name_category": "DJ KENTRUNG",
+      "title": "PANTUN JANDA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA2.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 3,
+      "name_category": "DJ KENTRUNG",
+      "title": "NEMU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA3.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 4,
+      "name_category": "DJ KENTRUNG",
+      "title": "HAYANG JAJAN",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA4.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 5,
+      "name_category": "DJ KENTRUNG",
+      "title": "TIARA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA5.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 6,
+      "name_category": "DJ KENTRUNG",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA6.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 7,
+      "name_category": "DJ KENTRUNG",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA7.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 8,
+      "name_category": "DJ KENTRUNG",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA8.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 9,
+      "name_category": "DJ KENTRUNG",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA9.mp3",
+      "lyrics": ""
+	 },{
+      "id": 10,
+      "name_category": "DJ KENTRUNG",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA10.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 11,
+      "name_category": "DJ KENTRUNG",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA11.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 12,
+      "name_category": "DJ KENTRUNG",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA12.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 13,
+      "name_category": "DJ KENTRUNG",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA13.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 14,
+      "name_category": "DJ KENTRUNG",
+      "title": "LAYANG DUNGO",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA14.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 15,
+      "name_category": "DJ KENTRUNG",
+      "title": "SYAHARA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA15.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 16,
+      "name_category": "DJ KENTRUNG",
+      "title": "BAGAI RANTING YANG KERING",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA16.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 17,
+      "name_category": "DJ KENTRUNG",
+      "title": "HARUSKAH BERAKHIR",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA17.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 18,
+      "name_category": "DJ KENTRUNG",
+      "title": "HEMPASKAN",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA18.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 19,
+      "name_category": "DJ KENTRUNG",
+      "title": "DITINGGAL PAS SAYANG SAYANGE",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA19.mp3",
+      "lyrics": ""
+	 },{
+      "id": 20,
+      "name_category": "DJ KENTRUNG",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA20.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 21,
+      "name_category": "DJ KENTRUNG",
+      "title": "KUPUJA PUJA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA21.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 22,
+      "name_category": "DJ KENTRUNG",
+      "title": "APAKAH ITU CINTA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA22.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 23,
+      "name_category": "DJ KENTRUNG",
+      "title": "SECAWAN MADU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA23.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 24,
+      "name_category": "DJ KENTRUNG",
+      "title": "MERINDUMU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA24.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 25,
+      "name_category": "DJ KENTRUNG",
+      "title": "BERBEZA KASTA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA25.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 26,
+      "name_category": "DJ KENTRUNG",
+      "title": "HAREDANG",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA26.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 27,
+      "name_category": "DJ KENTRUNG",
+      "title": "SATU NAMA TETAP DIHATI",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA27.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 28,
+      "name_category": "DJ KENTRUNG",
+      "title": "SEBERKAS SINAR",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA28.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 29,
+      "name_category": "DJ KENTRUNG",
+      "title": "KIMINO TORIKO",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA29.mp3",
+      "lyrics": ""
+	 },{
+      "id": 30,
+      "name_category": "DJ KENTRUNG",
+      "title": "MAWAR PUTIH",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA30.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 31,
+      "name_category": "DJ KENTRUNG",
+      "title": "BAKUNGAN KERE",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA31.mp3",
+      "lyrics": ""
+	 },
+    {
+      "id": 32,
+      "name_category": "DJ KENTRUNG",
+      "title": "BINTANG KEHIDUPAN",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA32.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 33,
+      "name_category": "DJ KENTRUNG",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA33.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 34,
+      "name_category": "DJ KENTRUNG",
+      "title": "JERITAN HATIKU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA34.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 35,
+      "name_category": "DJ KENTRUNG",
+      "title": "JURAGAN EMPANG",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA35.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 36,
+      "name_category": "DJ KENTRUNG",
+      "title": "MANTAN",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA36.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 37,
+      "name_category": "DJ KENTRUNG",
+      "title": "PURNAMA MERINDU",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA37.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 38,
+      "name_category": "DJ KENTRUNG",
+      "title": "SALING CINTA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA38.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 39,
+      "name_category": "DJ KENTRUNG",
+      "title": "TERLENA",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA39.mp3",
+      "lyrics": ""
+	 },
+	 {
+      "id": 40,
+      "name_category": "DJ KENTRUNG",
+      "title": "TIRANI",
+      "image": "file:///android_asset/image/KTR.png",
+      "link_mp3": "mp3/KENDJKA40.mp3",
+      "lyrics": ""
+	 }
+  ]
+}
